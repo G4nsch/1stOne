@@ -1,6 +1,6 @@
 # 1stOne
 1st repository
 
-whats new?
+Whats new?
 
 + servas.c
