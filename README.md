@@ -3,7 +3,7 @@
 
 Whats new?
 
-_26.11.28_
+_26.11.18_
 
 + servas.c
 + nix :(
