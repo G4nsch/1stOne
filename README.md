@@ -3,7 +3,7 @@
 
 Whats new?
 
-- added change-date
+- added change-date to readme
 
 _26.11.18_
 
